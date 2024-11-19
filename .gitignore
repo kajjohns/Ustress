@@ -1,0 +1,9 @@
+
+MCMC_outputs/Slip_Ustress_synthetic.txt
+MCMC_outputs/Mstress_Ustress_synthetic.txt
+MCMC_outputs/Msig_Ustress_synthetic.txt
+MCMC_outputs/Mlocked_Ustress_synthetic.txt
+MCMC_outputs/M_Ustress_synthetic.txt
+MCMC_outputs/logrho_Ustress_synthetic.txt
+MCMC_outputs/logDET_Ustress_synthetic.txt
+MCMC_outputs/DHAT_Ustress_synthetic.txt
